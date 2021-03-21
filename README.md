@@ -73,7 +73,7 @@ func (c *Counters) Add(k Key, amount int) {
     	c.vals[k] = count
     }
     count.sum += amount
-    count.numm += 1
+    count.n += 1
 }
 
 func (c *Counters) GetCounter(k Key) *Counter {
