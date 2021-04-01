@@ -1,3 +1,5 @@
+**You can now find this page [in the Go wiki](https://github.com/golang/go/wiki/CodeReviewConcurrency).**
+
 # Code Review Checklist: Go Concurrency
 
 This page is an addition to the [Go Code Review Comments](
@@ -233,6 +235,7 @@ Go concurrency:
    - [Go Concurrency Patterns: Context](https://blog.golang.org/context)
    - [Go Concurrency Patterns: Pipelines and cancellation](https://blog.golang.org/pipelines)
    - [Advanced Go Concurrency Patterns](https://blog.golang.org/io2013-talk-concurrency) (video)
+ - [Understanding Real-World Concurrency Bugs in Go](https://songlh.github.io/paper/go-study.pdf)
 
 Concurrency, but not specific to Go:
  - [Mechanical Sympathy: Single Writer Principle](
