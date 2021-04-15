@@ -235,6 +235,7 @@ Go concurrency:
    - [Go Concurrency Patterns: Context](https://blog.golang.org/context)
    - [Go Concurrency Patterns: Pipelines and cancellation](https://blog.golang.org/pipelines)
    - [Advanced Go Concurrency Patterns](https://blog.golang.org/io2013-talk-concurrency) (video)
+   - [Rethinking Classical Concurrency Patterns](https://www.youtube.com/watch?v=5zXAHh5tJqQ) (video)
  - [Understanding Real-World Concurrency Bugs in Go](https://songlh.github.io/paper/go-study.pdf)
 
 Concurrency, but not specific to Go:
